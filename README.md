@@ -50,4 +50,6 @@ Como podemos observar en la gráfica la velocidad del robot sube progresivamente
 #### Gráfica completa:
 ![image](https://github.com/ToniLMM/practica3_modelado/assets/92941378/f0f83930-1ec1-4637-be88-28db93db04e8)
 
+En este caso como en el anterior vemos como la velocidad de las ruedas aumenta progresivamente, además se pueden ver oscilaciones debido al choque como en el caso anterior, sin embargo hay que destacar las oscilaciones de las ruedas traseras, en especial la rueda 4 (trasera derecha) ya que cuando las de delante chocan y el coche se eleva esta sufre un fuerte golpe causando dicha fluctuacion. En cuanto al terreno (suelo) podemos ver más vibraciones que en el caso anterior debido a las irregularidades y pequeños baches que presenta este mapa.
+
 
