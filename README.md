@@ -28,6 +28,7 @@ Realizar la simulación en dos entornos de gazebo diferentes usando el robot rea
 #### Gráfica completa:
 ![image](https://github.com/ToniLMM/practica3_modelado/assets/92941378/b43e4ef0-8f85-4ba5-8349-aa7ff8f008c9)
 
+Como podemos observar en la gráfica la velocidad del robot sube progresivamente, sin embargo se pueden ver oscilaciones en la velocidad de las ruedas debido al choque con los cubos, primero en las ruedas delanteras (1 y 3) y luego en las traseras (2 y 4). En cuanto al terreno (arena) por lo general tenemos un aumento de velocidad progresivo y lineal (exceptuando las oscilaciones del choque), sin embargo se puede notar que poco antes de llegar a los 5 segundos ejerce una subida más exponencial de lo antes visto, esto puede deberse a que en el tramo anterior las ruedas pudieran estar patinando con la arena. Por otro lado una vez alcanza los 5 y segundos hasta que se para podemos observar una gráfica más lineal y continua sin prácticamente fluctuaciones.
 
 
 ## Floor world
