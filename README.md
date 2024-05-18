@@ -28,7 +28,7 @@ Realizar la simulación en dos entornos de gazebo diferentes usando el robot rea
 #### Gráfica completa:
 ![image](https://github.com/ToniLMM/practica3_modelado/assets/92941378/b43e4ef0-8f85-4ba5-8349-aa7ff8f008c9)
 
-Como podemos observar en la gráfica la velocidad del robot sube progresivamente, sin embargo se pueden ver oscilaciones en la velocidad de las ruedas debido al choque con los cubos, primero en las ruedas delanteras (1 y 3) y luego en las traseras (2 y 4). En cuanto al terreno (arena) por lo general tenemos un aumento de velocidad progresivo y lineal (exceptuando las oscilaciones del choque), sin embargo se puede notar que poco antes de llegar a los 5 segundos ejerce una subida más exponencial de lo antes visto, esto puede deberse a que en el tramo anterior las ruedas pudieran estar patinando con la arena. Por otro lado una vez alcanza los 5 y segundos hasta que se para podemos observar una gráfica más lineal y continua sin prácticamente fluctuaciones.
+Como podemos observar en la gráfica la velocidad del robot sube progresivamente, sin embargo se pueden ver oscilaciones en la velocidad de las ruedas debido al choque con los cubos, primero en las ruedas delanteras (1 y 3) y luego en las traseras (2 y 4). En cuanto al terreno (arena) por lo general tenemos un aumento de velocidad progresivo y lineal (exceptuando las oscilaciones del choque), sin embargo se puede notar que poco antes de llegar a los 5 segundos ejerce una subida más exponencial de lo antes visto, esto puede deberse a que en el tramo anterior las ruedas pudieran estar patinando con la arena. Por otro lado una vez alcanza los 5 y segundos hasta que se para podemos observar una gráfica más lineal y continua sin prácticamente fluctuaciones. Por último en la gráfica de aceleración se puede ver claramente el momento donde se produce el choque debido a los picos que muestra la grafica, tanto en el choque con las ruedas delanteras como en el choque con las ruedas traseras.
 
 
 ## Floor world
@@ -50,6 +50,7 @@ Como podemos observar en la gráfica la velocidad del robot sube progresivamente
 #### Gráfica completa:
 ![image](https://github.com/ToniLMM/practica3_modelado/assets/92941378/f0f83930-1ec1-4637-be88-28db93db04e8)
 
-En este caso como en el anterior vemos como la velocidad de las ruedas aumenta progresivamente, además se pueden ver oscilaciones debido al choque como en el caso anterior, sin embargo hay que destacar las oscilaciones de las ruedas traseras, en especial la rueda 4 (trasera derecha) ya que cuando las de delante chocan y el coche se eleva esta sufre un fuerte golpe causando dicha fluctuacion. En cuanto al terreno (suelo) podemos ver más vibraciones que en el caso anterior debido a las irregularidades y pequeños baches que presenta este mapa.
+En este caso como en el anterior vemos como la velocidad de las ruedas aumenta progresivamente, además se pueden ver oscilaciones debido al choque como en el caso anterior, sin embargo hay que destacar las oscilaciones de las ruedas traseras, en especial la rueda 4 (trasera derecha) ya que cuando las de delante chocan y el coche se eleva esta sufre un fuerte golpe causando dicha fluctuacion. En cuanto al terreno (suelo) podemos ver más vibraciones que en el caso anterior debido a las irregularidades y pequeños baches que presenta este mapa. Por último en la gráfica de aceleración se puede ver claramente el momento donde se produce el choque debido a los picos que muestra la grafica, tanto en el choque con las ruedas delanteras como en el choque con las ruedas traseras.
+
 
 
