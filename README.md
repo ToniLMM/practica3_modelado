@@ -12,8 +12,7 @@ Realizar la simulación en dos entornos de gazebo diferentes usando el robot rea
 
 ## Sand world
 
-#### Rosbag del sand.world:
-https://drive.google.com/drive/folders/19ltdUlZhe13wtP1IQmvR35gh_axI9uMn?usp=drive_link
+#### Rosbag del sand.world: https://drive.google.com/drive/folders/19ltdUlZhe13wtP1IQmvR35gh_axI9uMn?usp=drive_link
 
 [Screencast from 18-05-24 18:59:51.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/a25b9e17-093f-48ce-953c-2fb1f03efd4e)
 
@@ -34,8 +33,7 @@ Como podemos observar en la gráfica la velocidad del robot sube progresivamente
 
 ## Floor world
 
-#### Rosbag del floor.world: 
-https://drive.google.com/drive/folders/12R3op05AShdLLPu4jZoUTirK41hx1nAT?usp=drive_link
+#### Rosbag del floor.world: https://drive.google.com/drive/folders/12R3op05AShdLLPu4jZoUTirK41hx1nAT?usp=drive_link
 
 [Screencast from 18-05-24 19:07:23.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/660247c3-7653-4ea0-b90e-0da51eab2b74)
 
