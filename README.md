@@ -14,11 +14,12 @@ Realizar la simulación en dos entornos de gazebo diferentes usando el robot rea
 
 #### Rosbag del sand.world:
 
-[Screencast from 18-05-24 18:13:32.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/50942793-d871-47f1-adbe-542295a5de11)
+[Screencast from 18-05-24 18:59:51.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/a25b9e17-093f-48ce-953c-2fb1f03efd4e)
 
 ## Floor world
 
 
 #### Rosbag del floor.world:
 
-[Screencast from 18-05-24 18:17:05.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/b31a06dc-046f-414d-9f5a-da521b4625d5)
+[Screencast from 18-05-24 19:07:23.webm](https://github.com/ToniLMM/practica3_modelado/assets/92941378/facfae31-5f28-4d0d-80bb-a1df89ab808f)
+
