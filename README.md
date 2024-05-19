@@ -4,6 +4,8 @@
 
 ### Vídeo autoexplicativo:
 
+#### Link drive para mejor calidad: https://drive.google.com/file/d/1fANILMiewdHsbQxBENbQuPnmR1RQfCT0/view?usp=sharing
+
 https://github.com/ToniLMM/practica3_modelado/assets/92941378/ec275d5b-2414-4051-a1d2-552b22186cce
 
 #### Diagrama de árbol de TF:
