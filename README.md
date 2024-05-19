@@ -6,7 +6,8 @@
 
 https://github.com/ToniLMM/practica3_modelado/assets/92941378/ec275d5b-2414-4051-a1d2-552b22186cce
 
-
+#### Diagrama de árbol de TF:
+![rqt_graph](https://github.com/ToniLMM/practica3_modelado/assets/92941378/ae879a9a-4996-4af7-abf6-e6a25679b23e)
 
 
 ## Parte B: Integración y estudio de dinámicas en Gazebo y ROS2
