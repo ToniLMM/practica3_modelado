@@ -2,8 +2,12 @@
 
 ## Parte A: Configuración
 
-#### Objetivo:
-Configurar correctamente el modelo de robot utilizado en la práctica para poder ser visualizado, operado y controlado usando el software disponible en ROS2.
+### Vídeo autoexplicativo:
+
+https://github.com/ToniLMM/practica3_modelado/assets/92941378/ec275d5b-2414-4051-a1d2-552b22186cce
+
+
+
 
 ## Parte B: Integración y estudio de dinámicas en Gazebo y ROS2
 
